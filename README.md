@@ -22,3 +22,11 @@ ONScripter是一个开源的NScripter脚本解释工具，主要由Ogapee开发�
 ## [WIP] How to Build  
 * Modify Makefile, where are gcc and stage_files   
 * Run 'make clean && make MIYOO=1'  
+
+## Cross compile gcc toolchain and stage files    
+* aarch64-buildroot-linux-gnu_sdk-buildroot.tar.gz  
+from rg351p-toolchain,  
+https://github.com/AdrienLombard/sm64-351elec-port/releases/tag/v1.0.0  
+
+## TODO and bugs   
+* Check key map  
