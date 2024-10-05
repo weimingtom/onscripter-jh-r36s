@@ -1,5 +1,5 @@
 ﻿# onscripter-jh-r36s
-[WIP] My ONScripter-jh R36S port
+[WIP] My ONScripter-jh R36S and RGB10X port
 
 ## Original ONScripter-Jh readme
 ```
