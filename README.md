@@ -30,3 +30,17 @@ https://github.com/AdrienLombard/sm64-351elec-port/releases/tag/v1.0.0
 
 ## TODO and bugs   
 * Check key map  
+
+## R36S (ArkOS for RG351MP) eth0 ssh user/pass    
+* ark/ark  
+```
+我似乎拿到R36S掌机的控制台，前提是需要准备一个USB转网线的转接器，方法是：
+（1）用网线转接器接网线连到路由上，u口接右边的OTG口
+（2）通过掌机查询ip和打开远程服务，参考dov/r36s-programming，
+虽然这个开源项目说的是无线网卡，但也适用于USB网线转接器
+（3）然后用查询到的ip通过putty或者winscp之类的工具登录到控制台，
+用户名和pass都是ark，然后就能拿到控制台了，
+可以看到gcc、cmake、git、apt都是自带的，
+arkos实际对应的是rg351mp，默认的ark用户
+应该就是最高权限可执行sudo的
+```
