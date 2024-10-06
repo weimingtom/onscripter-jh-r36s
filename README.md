@@ -44,3 +44,4 @@ https://github.com/AdrienLombard/sm64-351elec-port/releases/tag/v1.0.0
 arkos实际对应的是rg351mp，默认的ark用户
 应该就是最高权限可执行sudo的
 ```
+* see https://github.com/dov/r36s-programming  
