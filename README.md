@@ -1,5 +1,5 @@
 ﻿# onscripter-jh-r36s
-[WIP] My ONScripter-jh R36S and RGB10X and Game Kiddy Bubble port
+[WIP] My ONScripter-jh R36S and RGB10X and Game Kiddy Bubble and RGB10MAX3 port  
 
 ## Original ONScripter-Jh readme
 ```
@@ -49,3 +49,4 @@ arkos实际对应的是rg351mp，默认的ark用户
 ## r36s test path  
 * Put to ports/ons folder (but it is not launched from PORTS of main menu, just launched from file manager)    
   
+## (TODO) How to launch from ports folder  
