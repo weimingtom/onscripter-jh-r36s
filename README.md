@@ -1,5 +1,6 @@
 ﻿# onscripter-jh-r36s
-[WIP] My ONScripter-jh R36S and RGB10X and Game Kiddy Bubble and RGB10MAX3 and RGB10 with ArkOS and RK2020 with ArkOS port  
+[WIP] My ONScripter-jh R36S and RGB10X and Game Kiddy Bubble and RGB10MAX3 and RGB10 with ArkOS port  
+RK2020 with ArkOS not good, but can be used  
 
 ## Original ONScripter-Jh readme
 ```
