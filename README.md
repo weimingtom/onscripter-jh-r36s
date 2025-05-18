@@ -32,7 +32,7 @@ https://github.com/AdrienLombard/sm64-351elec-port/releases/tag/v1.0.0
 ## TODO and bugs   
 * Check key map  
 
-## R36S (ArkOS for RG351MP) and RGB10X (ArkOS mod) eth0 ssh user/pass    
+## R36S and R36H (ArkOS for RG351MP) and RGB10X (ArkOS mod) eth0 ssh user/pass    
 * ark/ark  
 ```
 我似乎拿到R36S掌机的控制台，前提是需要准备一个USB转网线的转接器，方法是：
@@ -46,13 +46,15 @@ arkos实际对应的是rg351mp，默认的ark用户
 应该就是最高权限可执行sudo的
 ```
 * see https://github.com/dov/r36s-programming  
-* RGB10X ssh is also ark/ark, support apt, gcc is gcc9, need to enable remote service from 'main menu->configuration'      
+* RGB10X and R36H ssh is also ark/ark, support apt, gcc is gcc9, need to enable remote service from 'main menu->configuration'      
 ```
 隔了很久，我终于拿到RGB10X掌机ArkOS系统的ssh了（用户和R36S一样，都是ark/ark，
 方法也一样，用UTG线接USB转网口，接网线到路由LAN口即可），
 但必须在主菜单配置中使能远程服务，效果如下，
 甚至支持用浏览器打开ssh的网址80端口来获得一个网页文件管理器，
 虽然没什么用
+
+R36H也可以用相同的方法获取ssh  
 ```
 
 ## r36s test path  
