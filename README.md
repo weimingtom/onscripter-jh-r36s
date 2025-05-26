@@ -1,5 +1,5 @@
 ﻿# onscripter-jh-r36s
-[WIP] My ONScripter-jh R36S and RGB10X and Game Kiddy Bubble and RGB10MAX3 port, and for RGB10 with ArkOS.      
+[WIP] My ONScripter-jh R36S/R36H and RGB10X and Game Kiddy Bubble and RGB10MAX3 port, and for RGB10 with ArkOS.      
 Not very good port for RK2020 with ArkOS (factory firmware stock OS is EmuElec not ArkOS), but can be used.    
 
 ## Original ONScripter-Jh readme
@@ -49,7 +49,7 @@ arkos实际对应的是rg351mp，默认的ark用户
 * RGB10X and R36H ssh is also ark/ark, support apt, gcc is gcc9, need to enable remote service from 'main menu->configuration'      
 ```
 隔了很久，我终于拿到RGB10X掌机ArkOS系统的ssh了（用户和R36S一样，都是ark/ark，
-方法也一样，用UTG线接USB转网口，接网线到路由LAN口即可），
+方法也一样，用OTG线接USB转网口，接网线到路由LAN口即可），
 但必须在主菜单配置中使能远程服务，效果如下，
 甚至支持用浏览器打开ssh的网址80端口来获得一个网页文件管理器，
 虽然没什么用
