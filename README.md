@@ -1,5 +1,5 @@
 ﻿# onscripter-jh-r36s
-[WIP] My ONScripter-jh R36S V5/R36H and RGB10X and Game Kiddy Bubble and RGB10MAX3 port, and for RGB10 with ArkOS.      
+[WIP] My ONScripter-jh R36S-V5/R36H and RGB10X and Game Kiddy Bubble and RGB10MAX3 port, and for RGB10 with ArkOS.      
 Not very good port for RK2020 with ArkOS (factory firmware stock OS is EmuElec not ArkOS), but can be used.    
 
 ## Original ONScripter-Jh readme
