@@ -61,3 +61,20 @@ R36H也可以用相同的方法获取ssh
 * Put to ports/ons folder (but it is not launched from PORTS of main menu, just launched from file manager)    
   
 ## (TODO) How to launch from ports folder  
+
+## Suport OS firmware of R36H (and of R36S V5)
+```
+PAN4ELEC (Custom AmberELEC for Panel 4 Devices)
+Unofficial AmberELEC build by KEgg for the most recent Panel 4 (V5) devices
+```
+* https://handhelds.wiki/R36S_Custom_Firmware
+* https://github.com/tech4bot/r35s/releases/download/20240515/cHAos-R3xS.aarch64-20240515.img.gz  
+* https://github.com/tech4bot/r35s/releases/download/20240515/cHAos-R3xS.aarch64-20240517.img.gz   
+* (also support G350 but file different) https://github.com/Kegg1701/P4ELEC/releases/download/20250315/PAN4ELEC-RG351MP.aarch64-20250315.img.gz  
+* (choose P4/V5 to download) https://github.com/AeolusUX/ArkOS-R3XS/releases/tag/ArkOS.V2.0.4302025  
+* https://github.com/manster-zz/R36S-LINKS/wiki  
+```
+我测试过大部分R36S/RG351MP/RGB10X刷机包都用不到R36H，只有这几个可以：
+cHAos-R3xS（0515和0517都可以），PAN4ELEC-RG351MP，
+ArkOS_R35S-R36S_v2.0的P4版（不带P4的用不了）
+```
