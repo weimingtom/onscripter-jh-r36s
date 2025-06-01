@@ -62,7 +62,7 @@ R36H也可以用相同的方法获取ssh
   
 ## (TODO) How to launch from ports folder  
 
-## Suport OS firmware of R36H (and of R36S V5)
+## (TODO) Third party supported OS firmware of R36H (and of R36S V5), but not tested with this ONScripter-Jh repo  
 ```
 PAN4ELEC (Custom AmberELEC for Panel 4 Devices)
 Unofficial AmberELEC build by KEgg for the most recent Panel 4 (V5) devices
