@@ -78,3 +78,18 @@ Unofficial AmberELEC build by KEgg for the most recent Panel 4 (V5) devices
 cHAos-R3xS（0515和0517都可以），PAN4ELEC-RG351MP，
 ArkOS_R35S-R36S_v2.0的P4版（不带P4的用不了）
 ```
+
+## My checked and supported wireless net wifi modules 
+* (recommended RTL8821CU) LB-LINK BL-WN650BT AC650  
+RTL8821CU  
+Realtek 8821CU Wireless LAN 802.11ac USB NIC  
+RTL8821CU see also: https://www.hardkernel.com/shop/wifi-module-5bk/  
+```
+WIFI Module #5BK uses the same chipset (Realtek RTL8821CU) as WIFI Module #5B, 
+so it is 100% compatible. IEEE 802.11ac/a/b/g/n WLAN and Bluetooth  
+combo module with on-board 2.4Ghz and 5.8Ghz Dual band antenna.  
+```
+
+* 高科
+MT7601u ? (not this?), should be MT7662  
+802.11n USB Wireless LAN Card  
