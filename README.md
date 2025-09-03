@@ -90,6 +90,6 @@ so it is 100% compatible. IEEE 802.11ac/a/b/g/n WLAN and Bluetooth
 combo module with on-board 2.4Ghz and 5.8Ghz Dual band antenna.  
 ```
 
-* 高科  
+* 亮科(not高科)  
 MT7601u ? (not this?), should be MT7662  
 802.11n USB Wireless LAN Card  
